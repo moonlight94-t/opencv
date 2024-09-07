@@ -39,7 +39,7 @@ src = cv2.imread('misson/01.png')
 # dst2 = cv2.GaussianBlur(src,(0,0),5)
 # dst3=cv2.medianBlur(src,3)
 # dst4 = cv2.equalizeHist(src)
-dst4 = cv2.bilateralFilter(src, -1, 24, 42) # 2개 값 셋팅 24 42
+dst4 = cv2.bilateralFilter(src, -1, 24, 36) # 2개 값 셋팅 24 42
 
 #dst5 = cv2.fastNlMeansDenoisingColored(src, None, 10, 10, 7, 21) # 4개 값 셋팅
 
