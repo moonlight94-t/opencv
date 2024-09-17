@@ -10,3 +10,6 @@
 *.obj
 *.csv
 *.dat
+*.txt
+*.pyc
+.ipynb_checkpoints/
