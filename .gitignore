@@ -13,3 +13,4 @@
 *.txt
 *.pyc
 .ipynb_checkpoints/
+/opencv_study/comento/yolov5/
